@@ -1,4 +1,9 @@
 # 📖 Blockchain 101: A Basic Guide
+  <a href="https://github.com/catellaTech" target="_blank">
+    <img alt="Author" src="https://img.shields.io/badge/made%20by-CatellaTech-blueviolet?style=flat-square">
+  </a>
+<br>
+<br>
 
 Welcome to a simple introduction to the fascinating world of **Blockchain**! If you don't know anything about blockchain, this is the perfect place to start.
 
@@ -91,3 +96,10 @@ If this basic guide has sparked your interest, you can dive deeper into the foll
 - **DAOs (Decentralized Autonomous Organizations)**: New ways of governance without a central authority.
 - **DeFi (Decentralized Finance)**: Financial applications that operate without intermediaries like banks.
 
+<p align="center">
+<a href="mailto:catellatech@gmail.com" target="_blank" >
+  <img alt="Email - J.Gabriela" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+</a> 
+<br/>
+  Made with ❤️ by <b>catellaTech</b>.
+<p/>
